@@ -1,0 +1,10 @@
+/* Styles go here */
+
+.token {
+  height: 95px;
+    width: 95px;
+    display: inline-block;
+    border: 2px solid orange;
+    /* border-radius: 0; */
+    margin: 2px;
+}
